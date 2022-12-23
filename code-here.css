@@ -1,0 +1,52 @@
+#classic {
+  padding: 1em ;
+  text-align: justify;
+  
+
+}
+
+#modern {
+  background-color: gold;
+  padding-top:1em;
+  padding-bottom:1em;
+  padding-left:2em;
+  padding-right:1em;
+  text-align: match-parent;
+   font-size:medium;
+  
+
+}
+
+#impact {
+  
+  background-color: #98FF98;
+  font-size:medium;
+  padding-left:1em;
+    padding-right:1em;
+  padding-bottom:1em;
+  padding-top:1em;
+  text-align:match-parent;
+  box-shadow: 2px 2px 4px silver;
+  border: 1em double black;
+  
+  
+  
+
+}
+
+#elise {
+  background-color:#9f899b;
+
+}
+
+#one, #two  {
+
+}
+
+#gaudi {
+
+}
+
+
+
+
